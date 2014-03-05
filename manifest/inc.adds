@@ -1,0 +1,51 @@
+[
+    {
+        "remote":       "github",
+        "account":      "evervolv",
+        "repository":   "android_hardware_qcom_audio-legacy",
+        "target_path":  "hardware/qcom/audio-legacy",
+        "revision":     "kitkat"
+    },
+    {
+        "remote":       "github",
+        "account":      "evervolv",
+        "repository":   "android_hardware_qcom_media-legacy",
+        "target_path":  "hardware/qcom/media-legacy",
+        "revision":     "kitkat"
+    },
+    {
+        "remote":       "github",
+        "account":      "evervolv",
+        "repository":   "android_hardware_qcom_display-legacy",
+        "target_path":  "hardware/qcom/display-legacy",
+        "revision":     "kitkat"
+    },
+    {
+        "remote":       "github",
+        "account":      "evervolv",
+        "repository":   "android_hardware_qcom_gps-legacy",
+        "target_path":  "hardware/qcom/gps-legacy",
+        "revision":     "kitkat"
+    },
+    {
+        "remote":       "github",
+        "account":      "evervolv",
+        "repository":   "android_hardware_ril",
+        "target_path":  "hardware/ril",
+        "revision":     "kitkat"
+    },
+    {
+        "remote":       "github",
+        "account":      "evervolv",
+        "repository":   "android_frameworks_av",
+        "target_path":  "frameworks/av",
+        "revision":     "kitkat"
+    },
+    {
+        "remote":       "github",
+        "account":      "zachf714",
+        "repository":   "android_frameworks_native",
+        "target_path":  "frameworks/native",
+        "revision":     "pac-4.4-qsd8x50"
+    }
+]

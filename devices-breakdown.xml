@@ -20,6 +20,7 @@
     <vendor Name="HTC">
         <device FullName="Amaze 4G" CodeName="ruby"/>
         <device FullName="Droid DNA" CodeName="dlx"/>
+        <device FullName="Droid Incredible" CodeName="inc" />
         <device FullName="Droid Incredible 4G" CodeName="fireball"/>
         <device FullName="Evo LTE" CodeName="jewel"/>
         <device FullName="MyTouch 4G" CodeName="glacier"/>

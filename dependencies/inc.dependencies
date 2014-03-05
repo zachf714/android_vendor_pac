@@ -1,0 +1,38 @@
+[
+   {
+      "account": "zachf714",
+      "repository":  "android_device_htc_inc",
+      "target_path":  "device/htc/inc",
+      "revision":  "pac-4.4"
+   },
+   {
+      "account": "evervolv",
+      "repository": "android_device_htc_qsd8k-common",
+      "target_path": "device/htc/qsd8k-common",
+      "revision": "kitkat"
+   },
+   {
+      "account": "evervolv",
+      "repository": "android_kernel_htc_qsd8k",
+      "target_path": "kernel/htc/qsd8k",
+      "revision": "kitkat"
+   },
+   {
+      "account": "evervolv",
+      "repository": "android_prebuilts_gcc_linux-x86_arm_arm-eabi-4.4.3",
+      "target_path": "prebuilts/gcc/linux-x86/arm/arm-eabi-4.4.3",
+      "revision": "kitkat"
+   },
+   {
+      "remote": "aosp",
+      "repository": "device/generic/armv7-a-neon",
+      "target_path": "device/generic/armv7-a-neon",
+      "revision": "refs/tags/android-4.4.2_r1"
+   },
+   {
+      "account": "Pinky-Inky-and-Clyde",
+      "repository": "proprietary_vendor_htc",
+      "target_path": "vendor/htc",
+      "revision": "cm-11.0"
+   }
+]

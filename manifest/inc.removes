@@ -1,0 +1,82 @@
+[
+    {
+        "name":     "android_frameworks_av",
+        "path":     "frameworks/av"
+    },
+    {
+        "name":     "android_frameworks_native",
+        "path":     "frameworks/native"
+    },
+    {
+        "name":     "android_hardware_qcom_gps",
+        "path":     "hardware/qcom/gps"
+    },
+    {
+        "name":     "android_hardware_ril",
+        "path":     "hardware/ril"
+    },
+    {
+        "name":     "android_packages_apps_Apollo",
+        "path":     "packages/apps/Apollo"
+    },
+    {
+        "name":     "android_packages_apps_Calendar",
+        "path":     "packages/apps/Calendar"
+    },
+    {
+        "name":     "android_packages_apps_CMWallpapers",
+        "path":     "packages/apps/CMWallpapers"
+    }
+    {
+        "name":     "android_packages_apps_Exchange",
+        "path":     "packages/apps/Exchange"
+    },
+    {
+        "name":     "android_packages_apps_LockClock",
+        "path":     "packages/apps/LockClock"
+    },
+    {
+        "name":     "android_packages_apps_Nfc",
+        "path":     "packages/apps/Nfc"
+    },
+    {
+        "name":     "android_packages_apps_SpeechRecorder",
+        "path":     "packages/apps/SpeechRecorder"
+    },
+    {
+        "name":     "android_packages_apps_VideoEditor",
+        "path":     "packages/apps/VideoEditor"
+    },
+    {
+        "name":     "android_packages_apps_VoiceDialer",
+        "path":     "packages/apps/VoiceDialer"
+    },
+    {
+        "name":     "android_packages_wallpapers_Basic",
+        "path":     "packages/wallpapers/Basic"
+    },
+    {
+        "name":     "android_packages_wallpapers_Galaxy4",
+        "path":     "packages/wallpapers/Galaxy4"
+    },
+    {
+        "name":     "android_packages_wallpapers_HoloSpiral",
+        "path":     "packages/wallpapers/HoloSpiral"
+    },
+    {
+        "name":     "android_packages_wallpapers_MagicSmoke",
+        "path":     "packages/wallpapers/MagicSmoke"
+    },
+    {
+        "name":     "android_packages_wallpapers_MusicVisualization",
+        "path":     "packages/wallpapers/MusicVisualization"
+    },
+    {
+        "name":     "android_packages_wallpapers_NoiseField",
+        "path":     "packages/wallpapers/NoiseField"
+    },
+    {
+        "name":     "android_packages_wallpapers_PhaseBeam",
+        "path":     "packages/wallpapers/PhaseBeam"
+    }
+]
